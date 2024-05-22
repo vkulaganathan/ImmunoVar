@@ -1,2 +1,2 @@
 # ImmunoVar
-pTyrSNV detection tool
+Coming soon, under development !!
